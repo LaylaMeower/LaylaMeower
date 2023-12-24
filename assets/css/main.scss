@@ -13,9 +13,27 @@ $title-font-family: $serif-font-family;
 $description-font-family: $serif-font-family;
 $meta-font-family: $serif-font-family;
 
+@import "so-simple/functions";
 @import "so-simple";
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $serif-font-family;
   font-style: italic;
+}
+
+
+#primary-nav hr {
+  border-color: #aeaeae;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#primary-nav .lax-selected a {
+  font-weight: bold;
+}
+
+.taxonomy-title {
+  font-style: normal;
 }
