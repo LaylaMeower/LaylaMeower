@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About JoinFedivri"
-date: 2024-11-28 2:16 +0200
+date: 2024-11-28 02:16 +0200
 categories: english join-fedivri fedivri
 ---
 
@@ -47,9 +47,10 @@ Yes, I did, but here's some context:
 
 Well, we've looked into a lot of options.
 * We saw no reaosn to use [Mastodon](https://joinmastodon.org) or any of its forks.
-* We considered using [Sharkey](https://joinsharkey.org), but ultimately decided it is too complex for our target audience.
+* We considered using [Sharkey](https://joinsharkey.org), but ultimately decided it is too complex for our liking.
 * We also looked into [Bonfire](https://bonfirenetworks.org), but considering it is still in beta for over three years now,
   and the amount of bugs we encountered, we gave up on it.
+
 We now have three last options:
 * [Hubzilla](https://hubzilla.org) — its UI is quite complex, and we would need to mosify it a lot.
   If you're a PHP and/or CSS developer, we would [love to get your help](https://codeberg.org/JoinFedivri/JoinFedivri/issues/12).
