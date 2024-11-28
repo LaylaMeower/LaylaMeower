@@ -13,7 +13,7 @@ It's an Israeli attempt to create a proper Israeli social network.
 Currently, most Israelis are on a combination of WhatsApp, Facebook, Telegram, Discord, TikTok, Instagram and BlueSky;
 all corporate websites, and all but-ish the latter centralized.
 
-It's also a Hebrew attempt to bring more people to Fedivri (Fed + Ivri, Hebrew for "of Hebrew"), the Hebrew Fediverse.
+It's also a Hebrew attempt to bring more people to Fedivri (Fediverse + Ivri, "עברי" — Hebrew for "of Hebrew"), the Hebrew Fediverse.
 
 ## Well, what about Arab Israelis, then?
 
@@ -24,7 +24,7 @@ Although we *are* trying to have more people, well, join Fedivri, we're actually
 We're not going to exclude *anyone*. However, it is unlikely that Palestinians would be interested in joining;
 but we'd be happy to help found a sister server!
 
-## Wait, Israeli? Does that mean you're *insert politics*?
+## Wait, Israeli? Does that mean you're \[*insert politics*]?
 
 No. We do not embrace any political idoelogy, and forbid racist, xenophobic, and homophobic talking points on our services.
 
@@ -76,5 +76,4 @@ Yes. See:
 * Matrix, in [Hebrew](https://matrix.to/#/#JoinFedivri:matrix.org) or [English](https://matrix.to/#/#JoinFedivri_English:matrix.org).
 * [Codeberg](https://codeberg.org/JoinFedivri/JoinFedivri) (in Hebrew).
 * The `#JoinFedivri` tag on the Fediverse.
-* [@laxystem@tooot.im](https://tooot.im/@laxystem) (in Hebrew).
 * This very blog.
