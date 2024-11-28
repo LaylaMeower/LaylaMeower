@@ -1,0 +1,7 @@
+blog:
+  - title: Categories
+    url: blog/
+  - title: Tags
+    url: blog/browse/tags
+  - title: All Posts
+    url: blog/browse/

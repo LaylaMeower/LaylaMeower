@@ -1,0 +1,14 @@
+{%- if include.url contains '://' -%}
+    {%- assign url = include.url -%}
+{%- else -%}
+    {%- assign url = include.url | relative_url -%}
+{%- endif -%}
+{%- assign page-url = page.url | relative_url -%}
+{%- assign is-in-sub-nav = false -%}
+{%- for sub-nav-item in include.sub-nav -%}
+    {%- assign sub-nav-url = sub-nav-item.url | relative_url -%}
+    {%- if sub-nav-url == url -%}
+        {%- assign is-in-sub-nav = true -%}
+    {%- endif -%}
+{%- endfor -%}
+<li {% if page-url == url or is-in-sub-nav -%} class="lax-selected" {%- endif -%}><a href="{{ url }}">{{- include.title -}}</a></li>

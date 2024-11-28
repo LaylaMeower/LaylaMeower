@@ -1,0 +1,28 @@
+{% if site.data.navigation %}
+<div class="navigation-wrapper">
+    <a href="#menu-toggle" id="menu-toggle">{{ site.data.text[site.locale].menu_label | default: 'Menu' }}</a>
+    <nav id="primary-nav" class="site-nav animated drop">
+        <ul>
+            {%- if page.navigation -%}
+                {%- assign sub-navigation = page.navigation -%}
+            {%- else -%}
+                {%- assign sub-navigation = layout.navigation -%}
+            {%- endif -%}
+            {%- unless sub-navigation.first -%}
+                {%- assign sub-navigation=site.data.lax-page-navigation[sub-navigation] -%}
+            {%- endunless -%}
+
+            {%- for link in site.data.navigation -%}
+                {%- include lax-navigation-item.html url=link.url title=link.title sub-nav=sub-navigation -%}
+            {%- endfor -%}
+
+            {%- if sub-navigation -%}
+                <hr>
+                {%- for link in sub-navigation -%}
+                    {%- include lax-navigation-item.html url=link.url title=link.title -%}
+                {%- endfor -%}
+            {%- endif -%}
+        </ul>
+    </nav>
+</div><!-- /.navigation-wrapper -->
+{% endif %}

@@ -10,8 +10,12 @@ source "https://rubygems.org"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed"
   gem "github-pages"
+  gem "jekyll-feed"
+  gem "jekyll-redirect-from"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+  gem "jekyll-archives"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
