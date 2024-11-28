@@ -52,7 +52,7 @@ Well, we've looked into a lot of options.
   and the amount of bugs we encountered, we gave up on it.
 
 We now have three last options:
-* [Hubzilla](https://hubzilla.org) — its UI is quite complex, and we would need to mosify it a lot.
+* [Hubzilla](https://hubzilla.org) — its UI is quite complex, and we would need to modify it a lot.
   If you're a PHP and/or CSS developer, we would [love to get your help](https://codeberg.org/JoinFedivri/JoinFedivri/issues/12).
 * [Friendica](https://friendi.ca/) — we aren't done checking it out *yet*, but it looks promising – it aleady has BlueSky support!
 * And finally, [our own solution](http://codeberg.org/JoinFedivri/JoinFedivri/issues/13).
