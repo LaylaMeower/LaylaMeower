@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "About JoinFedivri"
-date: 2024-11-28 02:16 +0200
 category: Fedivri
 tags: English JoinFedivri 
 ---
