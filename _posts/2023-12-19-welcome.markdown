@@ -2,7 +2,7 @@
 layout: post
 title: "Brand New Blog..."
 date: 2023-12-19 21:50 +0200
-categories: jekyll update
+categories: jekyll update english
 ---
 
 Welcome to our blog!
