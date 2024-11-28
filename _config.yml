@@ -79,13 +79,11 @@ footer_links:
     icon: fas fa-rss-square
   - title: GitHub
     url: https://GitHub.com/Laxystem/Laxystem
-    icon: fas fa-github-square
+    icon: fa fa-github-square
   - title: Mastodon (English)
     url: https://tech.lgbt/@laxla
-    icon: fa-brands fa-mastodon
   - title: Mastodon (Hebrew)
     url: https://tooot.im/@laxystem
-    icon: fa-brands fa-mastodon
   - title: Sitemap
     url: sitemap.xml
     icon: fas fa-map
