@@ -22,7 +22,7 @@ Although we *are* trying to have more people, well, join Fedivri, we're actually
 ## And Palestinians?
 
 We're not going to exclude *anyone*. However, it is unlikely that Palestinians would be interested in joining;
-but we'd be happy to help found a sister server!
+regardless, we'd be happy to help found a sister server!
 
 ## Wait, Israeli? Does that mean you're \[*insert politics*]?
 
