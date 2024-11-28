@@ -24,7 +24,7 @@ Although we *are* trying to have more people, well, join Fedivri, we're actually
 We're not going to exclude *anyone*. However, it is unlikely that Palestinians would be interested in joining;
 regardless, we'd be happy to help found a sister server!
 
-## Wait, Israeli? Does that mean you're \[insert politics*]?
+## Wait, Israeli? Does that mean you're \[*insert politics*]?
 
 No. We do not embrace any political idoelogy, and forbid racist, xenophobic, and homophobic talking points on our services.
 
