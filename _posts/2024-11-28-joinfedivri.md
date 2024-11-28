@@ -5,7 +5,7 @@ date: 2024-11-28 02:16 +0200
 categories: english join-fedivri fedivri
 ---
 
-Well, if you haven't heard, I'm the ratifier of [JoinFedivri](https://codeberg.org/JoinFedivri).
+Well, if you haven't heard, I'm the Ratifier of [JoinFedivri](https://codeberg.org/JoinFedivri).
 
 ## What's That?
 
