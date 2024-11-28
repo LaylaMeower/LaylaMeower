@@ -4,7 +4,7 @@ sitemap: false
 
 @charset "utf-8";
 
-$serif-font-family: "Lora", serif;
+$serif-font-family: "Alef", serif;
 $sans-serif-font-family: "Josefin Sans", sans-serif;
 $monospace-font-family: "JetBrains Mono", monospace;
 
@@ -17,5 +17,8 @@ $meta-font-family: $serif-font-family;
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $serif-font-family;
+}
+
+h1 {
   font-style: italic;
 }
