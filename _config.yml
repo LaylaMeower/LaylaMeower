@@ -42,6 +42,10 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Alef"
     weights: "400,400i,700,700i"
+  - name: "Bellefair"
+    weights: "400,400i,700,700i"
+  - name: "Josefin Sans"
+    weights: "400,400i,700,700i"
 
 defaults:
   - scope:
@@ -79,7 +83,6 @@ footer_links:
     icon: fas fa-rss-square
   - title: GitHub
     url: https://GitHub.com/Laxystem/Laxystem
-    icon: fa fa-github-square
   - title: Mastodon (English)
     url: https://tech.lgbt/@laxla
   - title: Mastodon (Hebrew)
@@ -100,4 +103,5 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - .idea/
-  - .run.bash
+  - run
+  - .run

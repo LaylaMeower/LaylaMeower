@@ -4,7 +4,7 @@ sitemap: false
 
 @charset "utf-8";
 
-$serif-font-family: "Lora", serif;
+$serif-font-family: "Lora", "Bellefair", serif;
 $sans-serif-font-family: "Alef", sans-serif;
 $monospace-font-family: "JetBrains Mono", monospace;
 
@@ -27,6 +27,19 @@ h1, h2 {
   font-weight: bold;
 }
 
+#primary-nav a {
+  font-family: "Josefin Sans", $sans-serif-font-family;
+}
+
 .taxonomy-title {
+  font-style: normal;
+}
+
+.page-share {
+  display: none;
+}
+
+.site-title {
+  font-family: $sans-serif-font-family;
   font-style: normal;
 }
