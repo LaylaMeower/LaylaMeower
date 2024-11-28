@@ -2,7 +2,8 @@
 layout: post
 title: "About JoinFedivri"
 date: 2024-11-28 02:16 +0200
-categories: english join-fedivri fedivri
+category: Fedivri
+tags: English JoinFedivri 
 ---
 
 Well, if you haven't heard, I'm the Ratifier of [JoinFedivri](https://codeberg.org/JoinFedivri).
