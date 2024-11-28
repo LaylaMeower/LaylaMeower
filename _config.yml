@@ -51,6 +51,7 @@ defaults:
       layout: post
       share: true
       author: Laxystem
+      comments: false
   - scope:
       path: ""
     values:
