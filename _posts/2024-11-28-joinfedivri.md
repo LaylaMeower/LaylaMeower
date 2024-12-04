@@ -40,7 +40,7 @@ decides when a discussion is ready for a vote, and performs all kinds of daily m
 Yes, I did, but here's some context:
 * WhatsApp and Discord are used for messaging.
 * Telegram is mostly used for, let's call it, *alternative* news sources, and borderline illegal stuff (as usual for Telegram).
-* Facebook is a more personal social network, and it's only used by Millennials and Boomers anyway.
+* Facebook is a more personal social network, and it's 'only' used by Millennials and Boomers anyway.
 * TikTok and Instagram have a widely different content form.
 * And yes, a lot of people are on BlueSky. But, *we'll natively support [ATProto](https://atproto.com)*,
   the protocol BlueSky is based on, *in addition* to ActivityPub.
