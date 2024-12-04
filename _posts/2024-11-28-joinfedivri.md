@@ -70,7 +70,7 @@ in this case, Hebrew speakers. We'll refer to it as "Join Fedivri" for now, K?
 
 ## Will I be able to join it when it's up?
 
-Yes, but it'd be very preferable if you're a Hebrew speaker, as a first language or not — otherwise, you simply won't find what to do here.
+Yes, but it'd be very preferable for you to be a Hebrew speaker, as a first language or not — otherwise, you simply won't find what to do here.
 
 ## Can I help?
 
